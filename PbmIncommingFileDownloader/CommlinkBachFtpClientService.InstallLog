@@ -1,0 +1,104 @@
+﻿Installing assembly 'D:\Services\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Services\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\Services\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing service Pbm Ftp Client...
+Service Pbm Ftp Client has been successfully installed.
+Creating EventLog source Pbm Ftp Client in log Application...
+Committing assembly 'D:\Services\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Services\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\Services\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing assembly 'D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing service Pbm Ftp Client...
+Service Pbm Ftp Client has been successfully installed.
+Creating EventLog source Pbm Ftp Client in log Application...
+Committing assembly 'D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing assembly 'D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing service Pbm Ftp Client...
+Creating EventLog source Pbm Ftp Client in log Application...
+Rolling back assembly 'D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Restoring event log to previous state for source Pbm Ftp Client.
+Installing assembly 'D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing service Pbm Ftp Client...
+Service Pbm Ftp Client has been successfully installed.
+Creating EventLog source Pbm Ftp Client in log Application...
+Committing assembly 'D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing assembly 'D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing service Pbm Ftp Client...
+Service Pbm Ftp Client has been successfully installed.
+Creating EventLog source Pbm Ftp Client in log Application...
+Committing assembly 'D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\Service\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing assembly 'D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing service Pbm Ftp Client...
+Service Pbm Ftp Client has been successfully installed.
+Creating EventLog source Pbm Ftp Client in log Application...
+Committing assembly 'D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing assembly 'D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing service Pbm Ftp Client...
+Service Pbm Ftp Client has been successfully installed.
+Creating EventLog source Pbm Ftp Client in log Application...
+Committing assembly 'D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing assembly 'D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog
+Installing service Pbm Ftp Client...
+Service Pbm Ftp Client has been successfully installed.
+Creating EventLog source Pbm Ftp Client in log Application...
+Committing assembly 'D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.exe
+   logfile = D:\test setvice\PbmIncommingFileDownloader\CommlinkBachFtpClientService.InstallLog

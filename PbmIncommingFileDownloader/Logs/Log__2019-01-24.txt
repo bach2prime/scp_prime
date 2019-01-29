@@ -1,0 +1,58 @@
+[BEGIN LOGGING AT 2019-01-24 15:10:44,552]
+2019-01-24 15:10:44,768 [4] DEBUG - [ACCS Inward Regular]Dowloader started.
+2019-01-24 15:10:44,780 [4] DEBUG - [ACCS Inward HighValue]Dowloader started.
+2019-01-24 15:10:44,780 [4] DEBUG - [ACCS Inward Return Regular]Dowloader started.
+2019-01-24 15:10:44,780 [4] DEBUG - [ACCS Inward Return HighValue]Dowloader started.
+2019-01-24 15:10:44,780 [4] DEBUG - [ACCS Outward Regular Ack]Dowloader started.
+2019-01-24 15:10:44,780 [4] DEBUG - [ACCS Outward HighValue Ack]Dowloader started.
+2019-01-24 15:10:44,780 [4] DEBUG - [ACCS Outward Return Regular Ack]Dowloader started.
+2019-01-24 15:10:44,780 [4] DEBUG - [ACCS Outward Return HighValue Ack]Dowloader started.
+2019-01-24 15:10:55,992 [15] DEBUG - [ACCS Inward Regular]Downloader stopped.
+2019-01-24 15:10:59,844 [4] DEBUG - [ACCS Outward Return HighValue Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:10:59,844 [5] DEBUG - [ACCS Inward Regular]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:10:59,844 [6] DEBUG - [ACCS Inward HighValue]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:10:59,844 [7] DEBUG - [ACCS Inward Return Regular]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:11:00,424 [11] DEBUG - [ACCS Inward Return HighValue]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:11:00,924 [12] DEBUG - [ACCS Outward Regular Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:11:00,992 [15] DEBUG - [ACCS Inward HighValue]Downloader stopped.
+2019-01-24 15:11:01,844 [15] DEBUG - [ACCS Inward Return Regular]Downloader stopped.
+2019-01-24 15:11:01,924 [13] DEBUG - [ACCS Outward HighValue Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:11:02,441 [15] DEBUG - [ACCS Inward Return HighValue]Downloader stopped.
+2019-01-24 15:11:02,924 [15] DEBUG - [ACCS Outward Regular Ack]Downloader stopped.
+2019-01-24 15:11:02,924 [14] DEBUG - [ACCS Outward Return Regular Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:11:03,924 [15] DEBUG - [ACCS Outward HighValue Ack]Downloader stopped.
+2019-01-24 15:11:04,924 [15] DEBUG - [ACCS Outward Return Regular Ack]Downloader stopped.
+2019-01-24 15:11:09,924 [15] DEBUG - [ACCS Outward Return HighValue Ack]Downloader stopped.
+[END LOGGING AT 2019-01-24 15:10:44,554]
+[BEGIN LOGGING AT 2019-01-24 15:45:12,772]
+2019-01-24 15:45:12,901 [4] DEBUG - [ACCS Inward Regular]Dowloader started.
+2019-01-24 15:45:12,915 [4] DEBUG - [ACCS Inward HighValue]Dowloader started.
+2019-01-24 15:45:12,915 [4] DEBUG - [ACCS Inward Return Regular]Dowloader started.
+2019-01-24 15:45:12,915 [4] DEBUG - [ACCS Inward Return HighValue]Dowloader started.
+2019-01-24 15:45:12,915 [4] DEBUG - [ACCS Outward Regular Ack]Dowloader started.
+2019-01-24 15:45:12,915 [4] DEBUG - [ACCS Outward HighValue Ack]Dowloader started.
+2019-01-24 15:45:12,915 [4] DEBUG - [ACCS Outward Return Regular Ack]Dowloader started.
+2019-01-24 15:45:12,915 [4] DEBUG - [ACCS Outward Return HighValue Ack]Dowloader started.
+2019-01-24 15:45:25,360 [13] DEBUG - [ACCS Inward Regular]Downloader stopped.
+2019-01-24 15:45:27,919 [5] DEBUG - [ACCS Inward Regular]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:27,919 [8] DEBUG - [ACCS Inward Return Regular]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:27,919 [6] DEBUG - [ACCS Inward HighValue]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:27,919 [4] DEBUG - [ACCS Outward Return HighValue Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:28,733 [9] DEBUG - [ACCS Inward Return HighValue]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:29,265 [10] DEBUG - [ACCS Outward Regular Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:29,797 [11] DEBUG - [ACCS Outward HighValue Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:29,919 [13] DEBUG - [ACCS Inward HighValue]Downloader stopped.
+2019-01-24 15:45:30,329 [12] DEBUG - [ACCS Outward Return Regular Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:34,919 [13] DEBUG - [ACCS Inward Return Regular]Downloader stopped.
+2019-01-24 15:45:39,919 [13] DEBUG - [ACCS Inward Return HighValue]Downloader stopped.
+2019-01-24 15:45:44,919 [13] DEBUG - [ACCS Outward Regular Ack]Downloader stopped.
+2019-01-24 15:45:44,919 [8] DEBUG - [ACCS Inward Return Regular]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:44,920 [4] DEBUG - [ACCS Outward Return HighValue Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:45,733 [9] DEBUG - [ACCS Inward Return HighValue]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:46,265 [10] DEBUG - [ACCS Outward Regular Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:46,797 [11] DEBUG - [ACCS Outward HighValue Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:47,329 [12] DEBUG - [ACCS Outward Return Regular Ack]Error Occured while downloading file from Pbm. Stack Trace =>
+2019-01-24 15:45:48,797 [13] DEBUG - [ACCS Outward HighValue Ack]Downloader stopped.
+2019-01-24 15:45:49,329 [13] DEBUG - [ACCS Outward Return Regular Ack]Downloader stopped.
+2019-01-24 15:45:54,329 [13] DEBUG - [ACCS Outward Return HighValue Ack]Downloader stopped.
+[END LOGGING AT 2019-01-24 15:45:12,775]

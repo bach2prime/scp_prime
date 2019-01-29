@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfFtpDownloadSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <FtpDownloadSettings>
+    <Host>ftp://192.168.225.32:5001</Host>
+    <UserName></UserName>
+    <Password></Password>
+    <FtpSourceDir>BANKPBM/EFTOutward</FtpSourceDir>
+    <LocalDestinationDir>E:\Projects\EFT_NEW\EFT_New\EFT_Proj\PBM\EFTOutward\Complete</LocalDestinationDir>
+    <FtpBackUpDir>BANKPBM/EFTOutward/Backup</FtpBackUpDir>
+    <CommaSeparatedFileExt>.ack</CommaSeparatedFileExt>
+    <JobName>EFT Outward Ack</JobName>
+  </FtpDownloadSettings>
+</ArrayOfFtpDownloadSettings>
